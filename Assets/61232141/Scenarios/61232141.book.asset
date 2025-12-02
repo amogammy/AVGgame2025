@@ -43,7 +43,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - "\u967D\u5149\u660E\u5A9A\u7684\u57CE\u5E02\u88E1\uFF0C\u4E00\u9593\u5F69\u8679\u5E7C\u7A1A\u5712\uFF0C\u662F\u5922\u60F3\u958B\u59CB\u7684\u5730\u65B9\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -58,7 +58,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - "\u9019\u662F\u4E00\u500B\u5728\u5F69\u8679\u5E7C\u7A1A\u5712\u88E1\u767C\u751F\u7684\u6545\u4E8B\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -73,7 +73,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - "\u8001\u5E2B\u4E0A\u8AB2\u8B1B\u4E86\u5F88\u591A\u7AE5\u8A71\u6545\u4E8B\uFF0C\u5C0F\u670B\u53CB\u5011\u90FD\u807D\u5F97\u5F88\u958B\u5FC3\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -82,13 +82,13 @@ MonoBehaviour:
       debugIndex: 4
       strings:
       - 
+      - "\u5C0F\u5A01"
+      - "\u52DE\u4F5C\u6642\u9593"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u4E94\u6B72\u7684\u5C0F\u5A01\u807D\u5F97\u7279\u5225\u8A8D\u771F\uFF0C\u4ED6\u89AA\u624B\u88FD\u4F5C\u4E86\u4E00\u500B\u7368\u7279\u7684\u5E03\u5076\uFF0C\u7260\u7684\u5DE6\u773C\u662F\u7528\u9215\u6263\u88FD\u4F5C\u800C\u6210\uFF0C\u4ED6\u7D66\u7260\u53D6\u540D\u70BA\u300C\u5C0F\u919C\u300D\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -97,13 +97,13 @@ MonoBehaviour:
       debugIndex: 5
       strings:
       - 
+      - "\u5C0F\u5A01"
+      - "\u5E78\u798F"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u653E\u5B78\u5F8C\uFF0C\u5C0F\u5A01\u958B\u5FC3\u5730\u5E36\u8457\u300C\u5C0F\u919C\u300D\u4E00\u8D77\u53BB\u4E86\u4E2D\u592E\u516C\u5712\u73A9\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -112,13 +112,13 @@ MonoBehaviour:
       debugIndex: 6
       strings:
       - 
+      - "\u5C0F\u5A01"
+      - "\u6EFF\u8DB3"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u5C0F\u5A01\u73A9\u5F97\u5F88\u6295\u5165\uFF0C\u9023\u5ABD\u5ABD\u558A\u4ED6\u56DE\u5BB6\u5403\u665A\u9910\u6642\uFF0C\u4ED6\u90FD\u5DEE\u9EDE\u6C92\u807D\u5230\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -133,7 +133,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - "\u665A\u4E0A\uFF0C\u7576\u5C0F\u5A01\u6253\u958B\u4ED6\u85CD\u8272\u7684\u6050\u9F8D\u80CC\u5305\u6642\uFF0C\u4E00\u9663\u5FC3\u614C\u537B\u6E67\u4E0A\u5FC3\u982D\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -142,13 +142,13 @@ MonoBehaviour:
       debugIndex: 8
       strings:
       - 
+      - "\u5C0F\u5A01"
+      - "\u5927\u54ED"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u55DA... \u6211\u7684\u5C0F\u919C\uFF01\u6211\u7684\u5C0F\u919C\u4E0D\u898B\u4E86\uFF01"
       isEmpty: 0
       isCommentOut: 0
@@ -157,13 +157,13 @@ MonoBehaviour:
       debugIndex: 9
       strings:
       - 
+      - "\u5ABD\u5ABD"
+      - "\u6EAB\u67D4"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u5594\uFF0C\u89AA\u611B\u7684\u5C0F\u5A01\uFF0C\u5225\u54ED\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -172,13 +172,13 @@ MonoBehaviour:
       debugIndex: 10
       strings:
       - 
+      - "\u5ABD\u5ABD"
+      - "\u6EAB\u67D4"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u4F60\u78BA\u5B9A\u627E\u904D\u80CC\u5305\u4E86\u55CE\uFF1F"
       isEmpty: 0
       isCommentOut: 0
@@ -187,13 +187,13 @@ MonoBehaviour:
       debugIndex: 11
       strings:
       - 
+      - "\u5C0F\u5A01"
+      - "\u5927\u54ED"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u627E\u904E\u4E86\uFF0C\u5ABD\u5ABD\uFF01\u5C0F\u919C\u4E0D\u5728\u88E1\u9762\u4E86\uFF01"
       isEmpty: 0
       isCommentOut: 0
@@ -202,13 +202,13 @@ MonoBehaviour:
       debugIndex: 12
       strings:
       - 
+      - "\u5C0F\u5B87"
+      - "\u7591\u60D1"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u767C\u751F\u4E86\u4EC0\u9EBC\u4E8B\uFF1F\u96E3\u9053\u662F\u2014\u2014\u9D28\u9D28\u5931\u8E64\u6848\u4EF6\uFF1F"
       isEmpty: 0
       isCommentOut: 0
@@ -217,13 +217,13 @@ MonoBehaviour:
       debugIndex: 13
       strings:
       - 
+      - "\u5ABD\u5ABD"
+      - "\u6EAB\u67D4"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u5C0F\u5B87\uFF0C\u5E6B\u5E6B\u5F1F\u5F1F\u5427\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -232,13 +232,13 @@ MonoBehaviour:
       debugIndex: 14
       strings:
       - 
+      - "\u5C0F\u5B87"
+      - "\u958B\u5FC3"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u6C92\u554F\u984C\uFF01\u8ACB\u5BB9\u8A31\u6211\uFF0C\u300E\u5927\u5075\u63A2\u5C0F\u5B87\u300F\uFF0C\u70BA\u60A8\u555F\u52D5\u8ABF\u67E5\u4EFB\u52D9\uFF01"
       isEmpty: 0
       isCommentOut: 0
@@ -247,13 +247,13 @@ MonoBehaviour:
       debugIndex: 15
       strings:
       - 
+      - "\u5C0F\u5B87"
+      - "\u958B\u5FC3"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u5C0F\u5A01\uFF0C\u8DDF\u7DCA\u4E86\uFF01\u6211\u5011\u9700\u8981\u627E\u5230\u6700\u5F8C\u7684\u7DDA\u7D22\uFF01"
       isEmpty: 0
       isCommentOut: 0
@@ -262,13 +262,13 @@ MonoBehaviour:
       debugIndex: 16
       strings:
       - 
+      - "\u5C0F\u5B87"
+      - "\u7591\u60D1"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u7B2C\u4E00\u6B65\uFF1A\u9396\u5B9A\u6848\u767C\u73FE\u5834\u3002\u5C0F\u5A01\uFF0C\u56DE\u60F3\u4E00\u4E0B\uFF0C\u4F60\u6700\u5F8C\u4E00\u6B21\u78BA\u5B9A\u770B\u5230\u300E\u5C0F\u919C\u300F\u662F\u4EC0\u9EBC\u6642\u5019\uFF1F"
       isEmpty: 0
       isCommentOut: 0
@@ -277,13 +277,13 @@ MonoBehaviour:
       debugIndex: 17
       strings:
       - 
+      - "\u5C0F\u5B87"
+      - "\u7591\u60D1"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u662F\u5728\u5BB6\u88E1\u3001\u5E7C\u7A1A\u5712\uFF0C\u9084\u662F\u516C\u5712\uFF1F"
       isEmpty: 0
       isCommentOut: 0
@@ -298,7 +298,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - "\u300C\u5C0F\u919C\u300D\u6700\u5F8C\u5728\u54EA\uFF1F"
       isEmpty: 0
       isCommentOut: 0
@@ -313,7 +313,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - "\u5728\u5BB6\u88E1\uFF0C\u4F60\u6E96\u5099\u7761\u89BA\u6642\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -328,7 +328,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - "\u5728\u5E7C\u7A1A\u5712\u6559\u5BA4\u88E1\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -343,7 +343,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - "\u5728\u4E2D\u592E\u516C\u5712\u7684\u6E9C\u6ED1\u68AF\u4E0B\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -352,13 +352,13 @@ MonoBehaviour:
       debugIndex: 22
       strings:
       - 
+      - "\u5C0F\u5A01"
+      - "\u958B\u5FC3"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u662F\u5728\u516C\u5712\uFF01\u6211\u73A9\u5F97\u6700\u958B\u5FC3\u7684\u6642\u5019\uFF01"
       isEmpty: 0
       isCommentOut: 0
@@ -367,13 +367,13 @@ MonoBehaviour:
       debugIndex: 23
       strings:
       - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - "\u5F88\u597D\uFF01\u7B54\u5C0D\u4E86\uFF01\u4F60\u5E36\u8457\u7260\u73A9\u6E9C\u6ED1\u68AF\uFF0C\u90A3\u88E1\u662F\u5ACC\u7591\u6700\u5927\u7684\u5730\u65B9\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -382,13 +382,13 @@ MonoBehaviour:
       debugIndex: 24
       strings:
       - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - "\u73FE\u5728\u7DDA\u7D22\u8B8A\u591A\u4E86\uFF0C\u6211\u5011\u4F86\u53BB\u4E2D\u592E\u516C\u5712\u7684\u6E9C\u6ED1\u68AF\u5340\u57DF\u5427\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -397,13 +397,13 @@ MonoBehaviour:
       debugIndex: 25
       strings:
       - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - "\u73FE\u5728\u592A\u665A\u4E86...\u6211\u5011\u660E\u5929\u4E00\u65E9\u518D\u53BB\u516C\u5712\u627E\u627E\uFF0C\u5148\u7761\u89BA\u5427\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -412,13 +412,13 @@ MonoBehaviour:
       debugIndex: 26
       strings:
       - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - "\u5E0C\u671B\u5C0F\u919C\u4E0D\u6703\u5BB3\u6015..."
       isEmpty: 0
       isCommentOut: 0
@@ -427,13 +427,13 @@ MonoBehaviour:
       debugIndex: 27
       strings:
       - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - "\u5C0F\u5A01\uFF0C\u6211\u5011\u96E2\u958B\u516C\u5712\u6642\uFF0C\u6709\u9047\u5230\u4E00\u500B\u4EBA\uFF0C\u800C\u4E14\u5979\u7576\u6642\u6B63\u505A\u4E00\u4EF6\u91CD\u8981\u7684\u4E8B\u60C5\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -442,13 +442,13 @@ MonoBehaviour:
       debugIndex: 28
       strings:
       - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - "\u4F60\u9084\u8A18\u5F97\u9047\u5230\u4E86\u8AB0\uFF0C\u4EE5\u53CA\u5979\u5728\u505A\u4EC0\u9EBC\u55CE\uFF1F"
       isEmpty: 0
       isCommentOut: 0
@@ -463,7 +463,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - "\u5728\u516C\u5712\u9580\u53E3\u9047\u5230\u8AB0\uFF1F"
       isEmpty: 0
       isCommentOut: 0
@@ -478,7 +478,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - "\u770B\u5230\u4E00\u500B\u53D4\u53D4\u5728\u9935\u9D3F\u5B50\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -517,7 +517,7 @@ MonoBehaviour:
       debugIndex: 33
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -532,7 +532,7 @@ MonoBehaviour:
       debugIndex: 34
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -547,7 +547,7 @@ MonoBehaviour:
       debugIndex: 35
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -562,7 +562,7 @@ MonoBehaviour:
       debugIndex: 36
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -577,7 +577,7 @@ MonoBehaviour:
       debugIndex: 37
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -592,7 +592,7 @@ MonoBehaviour:
       debugIndex: 38
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -607,7 +607,7 @@ MonoBehaviour:
       debugIndex: 39
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -683,7 +683,7 @@ MonoBehaviour:
       debugIndex: 44
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -698,7 +698,7 @@ MonoBehaviour:
       debugIndex: 45
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -713,7 +713,7 @@ MonoBehaviour:
       debugIndex: 46
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -728,7 +728,7 @@ MonoBehaviour:
       debugIndex: 47
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -743,7 +743,7 @@ MonoBehaviour:
       debugIndex: 48
       strings:
       - 
-      - 
+      - "\u5C0F\u6BDB"
       - 
       - 
       - 
@@ -758,7 +758,7 @@ MonoBehaviour:
       debugIndex: 49
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -773,7 +773,7 @@ MonoBehaviour:
       debugIndex: 50
       strings:
       - 
-      - 
+      - "\u5C0F\u6BDB"
       - 
       - 
       - 
@@ -848,7 +848,7 @@ MonoBehaviour:
       debugIndex: 55
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -863,7 +863,7 @@ MonoBehaviour:
       debugIndex: 56
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -878,7 +878,7 @@ MonoBehaviour:
       debugIndex: 57
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -893,7 +893,7 @@ MonoBehaviour:
       debugIndex: 58
       strings:
       - 
-      - 
+      - "\u5C0F\u6BDB"
       - 
       - 
       - 
@@ -908,7 +908,7 @@ MonoBehaviour:
       debugIndex: 59
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -923,7 +923,7 @@ MonoBehaviour:
       debugIndex: 60
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -938,7 +938,7 @@ MonoBehaviour:
       debugIndex: 61
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -953,7 +953,7 @@ MonoBehaviour:
       debugIndex: 62
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -1028,7 +1028,7 @@ MonoBehaviour:
       debugIndex: 67
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -1043,7 +1043,7 @@ MonoBehaviour:
       debugIndex: 68
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -1058,7 +1058,7 @@ MonoBehaviour:
       debugIndex: 69
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -1073,7 +1073,7 @@ MonoBehaviour:
       debugIndex: 70
       strings:
       - 
-      - 
+      - "\u5C0F\u6BDB"
       - 
       - 
       - 
@@ -1088,7 +1088,7 @@ MonoBehaviour:
       debugIndex: 71
       strings:
       - 
-      - 
+      - "\u5C0F\u6BDB"
       - 
       - 
       - 
@@ -1104,7 +1104,7 @@ MonoBehaviour:
       debugIndex: 72
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -1179,7 +1179,7 @@ MonoBehaviour:
       debugIndex: 77
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -1194,7 +1194,7 @@ MonoBehaviour:
       debugIndex: 78
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -1209,7 +1209,7 @@ MonoBehaviour:
       debugIndex: 79
       strings:
       - 
-      - 
+      - "\u5C0F\u6BDB"
       - 
       - 
       - 
@@ -1225,7 +1225,7 @@ MonoBehaviour:
       debugIndex: 80
       strings:
       - 
-      - 
+      - "\u5C0F\u6BDB"
       - 
       - 
       - 
@@ -1240,7 +1240,7 @@ MonoBehaviour:
       debugIndex: 81
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -1255,7 +1255,7 @@ MonoBehaviour:
       debugIndex: 82
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -1270,7 +1270,7 @@ MonoBehaviour:
       debugIndex: 83
       strings:
       - 
-      - 
+      - "\u5C0F\u6BDB"
       - 
       - 
       - 
@@ -1285,7 +1285,7 @@ MonoBehaviour:
       debugIndex: 84
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -1300,7 +1300,7 @@ MonoBehaviour:
       debugIndex: 85
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -1315,7 +1315,7 @@ MonoBehaviour:
       debugIndex: 86
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -1330,7 +1330,7 @@ MonoBehaviour:
       debugIndex: 87
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -1345,7 +1345,7 @@ MonoBehaviour:
       debugIndex: 88
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -1360,7 +1360,7 @@ MonoBehaviour:
       debugIndex: 89
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -1375,7 +1375,7 @@ MonoBehaviour:
       debugIndex: 90
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -1390,7 +1390,7 @@ MonoBehaviour:
       debugIndex: 91
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -1405,7 +1405,7 @@ MonoBehaviour:
       debugIndex: 92
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -1420,7 +1420,7 @@ MonoBehaviour:
       debugIndex: 93
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -1435,7 +1435,7 @@ MonoBehaviour:
       debugIndex: 94
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -1450,7 +1450,7 @@ MonoBehaviour:
       debugIndex: 95
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -1465,7 +1465,7 @@ MonoBehaviour:
       debugIndex: 96
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -1480,7 +1480,7 @@ MonoBehaviour:
       debugIndex: 97
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -1495,7 +1495,7 @@ MonoBehaviour:
       debugIndex: 98
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -1510,7 +1510,7 @@ MonoBehaviour:
       debugIndex: 99
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -1545,7 +1545,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232141/Scenarios/61232141.xls:Start
     type: 1
-    textLength: 1931
+    textLength: 2163
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 7ef6961aa67a0fc4b817aa7edfd6cc1d, type: 3}
     entityIndexTbl: 
@@ -1579,9 +1579,489 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u5C0F\u5A01"
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - A1.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - 
+      - 
+      - "\u5FAE\u7B11"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - A2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - 
+      - 
+      - "\u5927\u54ED"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - A3.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - 
+      - 
+      - "\u958B\u5FC3"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - A4.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - 
+      - 
+      - "\u52DE\u4F5C\u6642\u9593"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - A5.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - 
+      - 
+      - "\u6EFF\u8DB3"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - A6.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - 
+      - 
+      - "\u5E78\u798F"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - A7.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - 
+      - 
+      - "\u751F\u6C23"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - A8.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - 
+      - 
+      - "\u559C\u6085"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - A9.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - 
+      - 
+      - "\u6234\u5E3D\u5B50"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - A10.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - "\u5C0F\u5B87"
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - C1.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - 
+      - 
+      - "\u7591\u60D1"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - C2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - 
+      - 
+      - "\u5BB3\u7F9E"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - C3.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
+      strings:
+      - 
+      - 
+      - "\u958B\u5FC3"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - C4.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 15
+      strings:
+      - 
+      - 
+      - "\u8D85\u958B\u5FC3"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - C5.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 16
+      strings:
+      - 
+      - 
+      - "\u7591\u60D1"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - C6.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 17
+      debugIndex: 17
+      strings:
+      - "\u5C0F\u6BDB"
+      - 
+      - "\u7591\u60D1"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - B1.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 18
+      debugIndex: 18
+      strings:
+      - 
+      - 
+      - "\u7121\u7CBE\u6253\u91C7"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - B2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 19
+      debugIndex: 19
+      strings:
+      - 
+      - 
+      - "\u64D4\u6182"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - B3.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 20
+      strings:
+      - 
+      - 
+      - "\u559C\u6975\u800C\u6CE3"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - B4.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 21
+      debugIndex: 21
+      strings:
+      - 
+      - 
+      - "\u8209\u624B"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - B5.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 22
+      strings:
+      - 
+      - 
+      - "\u958B\u5FC3"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - B6.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 23
+      strings:
+      - 
+      - 
+      - "\u751F\u6C23"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - B7.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 24
+      strings:
+      - 
+      - 
+      - "\u5931\u843D"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - B8.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 25
+      strings:
+      - "\u5ABD\u5ABD"
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - D1.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 26
+      strings:
+      - 
+      - 
+      - "\u958B\u5FC3"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - D2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 27
+      debugIndex: 27
+      strings:
+      - 
+      - 
+      - "\u751F\u6C23"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - D3.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 28
+      debugIndex: 28
+      strings:
+      - 
+      - 
+      - "\u559C\u6975\u800C\u6CE3"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - D4.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 29
+      debugIndex: 29
+      strings:
+      - 
+      - 
+      - "\u8D85\u96E3\u904E"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - D5.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 30
+      debugIndex: 30
+      strings:
+      - 
+      - 
+      - "\u6EAB\u67D4"
+      - 
+      - 
+      - 
+      - 
+      - .8
+      - 
+      - D6.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61232141/Scenarios/61232141.xls:Character
     type: 1
-    textLength: 166
+    textLength: 486
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 7ef6961aa67a0fc4b817aa7edfd6cc1d, type: 3}
   - rows:
@@ -1958,7 +2438,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - "\u967D\u5149\u660E\u5A9A\u7684\u57CE\u5E02\u88E1\uFF0C\u4E00\u9593\u5F69\u8679\u5E7C\u7A1A\u5712\uFF0C\u662F\u5922\u60F3\u958B\u59CB\u7684\u5730\u65B9\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -1973,7 +2453,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - "\u9019\u662F\u4E00\u500B\u5728\u5F69\u8679\u5E7C\u7A1A\u5712\u88E1\u767C\u751F\u7684\u6545\u4E8B\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -1988,7 +2468,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - "\u8001\u5E2B\u4E0A\u8AB2\u8B1B\u4E86\u5F88\u591A\u7AE5\u8A71\u6545\u4E8B\uFF0C\u5C0F\u670B\u53CB\u5011\u90FD\u807D\u5F97\u5F88\u958B\u5FC3\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -1997,13 +2477,13 @@ MonoBehaviour:
       debugIndex: 4
       strings:
       - 
+      - "\u5C0F\u5A01"
+      - "\u52DE\u4F5C\u6642\u9593"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u4E94\u6B72\u7684\u5C0F\u5A01\u807D\u5F97\u7279\u5225\u8A8D\u771F\uFF0C\u4ED6\u89AA\u624B\u88FD\u4F5C\u4E86\u4E00\u500B\u7368\u7279\u7684\u5E03\u5076\uFF0C\u7260\u7684\u5DE6\u773C\u662F\u7528\u9215\u6263\u88FD\u4F5C\u800C\u6210\uFF0C\u4ED6\u7D66\u7260\u53D6\u540D\u70BA\u300C\u5C0F\u919C\u300D\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -2012,13 +2492,13 @@ MonoBehaviour:
       debugIndex: 5
       strings:
       - 
+      - "\u5C0F\u5A01"
+      - "\u5E78\u798F"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u653E\u5B78\u5F8C\uFF0C\u5C0F\u5A01\u958B\u5FC3\u5730\u5E36\u8457\u300C\u5C0F\u919C\u300D\u4E00\u8D77\u53BB\u4E86\u4E2D\u592E\u516C\u5712\u73A9\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -2027,13 +2507,13 @@ MonoBehaviour:
       debugIndex: 6
       strings:
       - 
+      - "\u5C0F\u5A01"
+      - "\u6EFF\u8DB3"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u5C0F\u5A01\u73A9\u5F97\u5F88\u6295\u5165\uFF0C\u9023\u5ABD\u5ABD\u558A\u4ED6\u56DE\u5BB6\u5403\u665A\u9910\u6642\uFF0C\u4ED6\u90FD\u5DEE\u9EDE\u6C92\u807D\u5230\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -2048,7 +2528,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - "\u665A\u4E0A\uFF0C\u7576\u5C0F\u5A01\u6253\u958B\u4ED6\u85CD\u8272\u7684\u6050\u9F8D\u80CC\u5305\u6642\uFF0C\u4E00\u9663\u5FC3\u614C\u537B\u6E67\u4E0A\u5FC3\u982D\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -2057,13 +2537,13 @@ MonoBehaviour:
       debugIndex: 8
       strings:
       - 
+      - "\u5C0F\u5A01"
+      - "\u5927\u54ED"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u55DA... \u6211\u7684\u5C0F\u919C\uFF01\u6211\u7684\u5C0F\u919C\u4E0D\u898B\u4E86\uFF01"
       isEmpty: 0
       isCommentOut: 0
@@ -2072,13 +2552,13 @@ MonoBehaviour:
       debugIndex: 9
       strings:
       - 
+      - "\u5ABD\u5ABD"
+      - "\u6EAB\u67D4"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u5594\uFF0C\u89AA\u611B\u7684\u5C0F\u5A01\uFF0C\u5225\u54ED\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -2087,13 +2567,13 @@ MonoBehaviour:
       debugIndex: 10
       strings:
       - 
+      - "\u5ABD\u5ABD"
+      - "\u6EAB\u67D4"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u4F60\u78BA\u5B9A\u627E\u904D\u80CC\u5305\u4E86\u55CE\uFF1F"
       isEmpty: 0
       isCommentOut: 0
@@ -2102,13 +2582,13 @@ MonoBehaviour:
       debugIndex: 11
       strings:
       - 
+      - "\u5C0F\u5A01"
+      - "\u5927\u54ED"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u627E\u904E\u4E86\uFF0C\u5ABD\u5ABD\uFF01\u5C0F\u919C\u4E0D\u5728\u88E1\u9762\u4E86\uFF01"
       isEmpty: 0
       isCommentOut: 0
@@ -2117,13 +2597,13 @@ MonoBehaviour:
       debugIndex: 12
       strings:
       - 
+      - "\u5C0F\u5B87"
+      - "\u7591\u60D1"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u767C\u751F\u4E86\u4EC0\u9EBC\u4E8B\uFF1F\u96E3\u9053\u662F\u2014\u2014\u9D28\u9D28\u5931\u8E64\u6848\u4EF6\uFF1F"
       isEmpty: 0
       isCommentOut: 0
@@ -2132,13 +2612,13 @@ MonoBehaviour:
       debugIndex: 13
       strings:
       - 
+      - "\u5ABD\u5ABD"
+      - "\u6EAB\u67D4"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u5C0F\u5B87\uFF0C\u5E6B\u5E6B\u5F1F\u5F1F\u5427\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -2147,13 +2627,13 @@ MonoBehaviour:
       debugIndex: 14
       strings:
       - 
+      - "\u5C0F\u5B87"
+      - "\u958B\u5FC3"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u6C92\u554F\u984C\uFF01\u8ACB\u5BB9\u8A31\u6211\uFF0C\u300E\u5927\u5075\u63A2\u5C0F\u5B87\u300F\uFF0C\u70BA\u60A8\u555F\u52D5\u8ABF\u67E5\u4EFB\u52D9\uFF01"
       isEmpty: 0
       isCommentOut: 0
@@ -2162,13 +2642,13 @@ MonoBehaviour:
       debugIndex: 15
       strings:
       - 
+      - "\u5C0F\u5B87"
+      - "\u958B\u5FC3"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u5C0F\u5A01\uFF0C\u8DDF\u7DCA\u4E86\uFF01\u6211\u5011\u9700\u8981\u627E\u5230\u6700\u5F8C\u7684\u7DDA\u7D22\uFF01"
       isEmpty: 0
       isCommentOut: 0
@@ -2177,13 +2657,13 @@ MonoBehaviour:
       debugIndex: 16
       strings:
       - 
+      - "\u5C0F\u5B87"
+      - "\u7591\u60D1"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u7B2C\u4E00\u6B65\uFF1A\u9396\u5B9A\u6848\u767C\u73FE\u5834\u3002\u5C0F\u5A01\uFF0C\u56DE\u60F3\u4E00\u4E0B\uFF0C\u4F60\u6700\u5F8C\u4E00\u6B21\u78BA\u5B9A\u770B\u5230\u300E\u5C0F\u919C\u300F\u662F\u4EC0\u9EBC\u6642\u5019\uFF1F"
       isEmpty: 0
       isCommentOut: 0
@@ -2192,13 +2672,13 @@ MonoBehaviour:
       debugIndex: 17
       strings:
       - 
+      - "\u5C0F\u5B87"
+      - "\u7591\u60D1"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u662F\u5728\u5BB6\u88E1\u3001\u5E7C\u7A1A\u5712\uFF0C\u9084\u662F\u516C\u5712\uFF1F"
       isEmpty: 0
       isCommentOut: 0
@@ -2213,7 +2693,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - "\u300C\u5C0F\u919C\u300D\u6700\u5F8C\u5728\u54EA\uFF1F"
       isEmpty: 0
       isCommentOut: 0
@@ -2228,7 +2708,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - "\u5728\u5BB6\u88E1\uFF0C\u4F60\u6E96\u5099\u7761\u89BA\u6642\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -2243,7 +2723,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - "\u5728\u5E7C\u7A1A\u5712\u6559\u5BA4\u88E1\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -2258,7 +2738,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - "\u5728\u4E2D\u592E\u516C\u5712\u7684\u6E9C\u6ED1\u68AF\u4E0B\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -2267,13 +2747,13 @@ MonoBehaviour:
       debugIndex: 22
       strings:
       - 
+      - "\u5C0F\u5A01"
+      - "\u958B\u5FC3"
       - 
       - 
       - 
       - 
-      - 
-      - 
-      - 
+      - .8
       - "\u662F\u5728\u516C\u5712\uFF01\u6211\u73A9\u5F97\u6700\u958B\u5FC3\u7684\u6642\u5019\uFF01"
       isEmpty: 0
       isCommentOut: 0
@@ -2282,13 +2762,13 @@ MonoBehaviour:
       debugIndex: 23
       strings:
       - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - "\u5F88\u597D\uFF01\u7B54\u5C0D\u4E86\uFF01\u4F60\u5E36\u8457\u7260\u73A9\u6E9C\u6ED1\u68AF\uFF0C\u90A3\u88E1\u662F\u5ACC\u7591\u6700\u5927\u7684\u5730\u65B9\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -2297,13 +2777,13 @@ MonoBehaviour:
       debugIndex: 24
       strings:
       - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - "\u73FE\u5728\u7DDA\u7D22\u8B8A\u591A\u4E86\uFF0C\u6211\u5011\u4F86\u53BB\u4E2D\u592E\u516C\u5712\u7684\u6E9C\u6ED1\u68AF\u5340\u57DF\u5427\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -2312,13 +2792,13 @@ MonoBehaviour:
       debugIndex: 25
       strings:
       - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - "\u73FE\u5728\u592A\u665A\u4E86...\u6211\u5011\u660E\u5929\u4E00\u65E9\u518D\u53BB\u516C\u5712\u627E\u627E\uFF0C\u5148\u7761\u89BA\u5427\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -2327,13 +2807,13 @@ MonoBehaviour:
       debugIndex: 26
       strings:
       - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - "\u5E0C\u671B\u5C0F\u919C\u4E0D\u6703\u5BB3\u6015..."
       isEmpty: 0
       isCommentOut: 0
@@ -2342,13 +2822,13 @@ MonoBehaviour:
       debugIndex: 27
       strings:
       - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - "\u5C0F\u5A01\uFF0C\u6211\u5011\u96E2\u958B\u516C\u5712\u6642\uFF0C\u6709\u9047\u5230\u4E00\u500B\u4EBA\uFF0C\u800C\u4E14\u5979\u7576\u6642\u6B63\u505A\u4E00\u4EF6\u91CD\u8981\u7684\u4E8B\u60C5\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -2357,13 +2837,13 @@ MonoBehaviour:
       debugIndex: 28
       strings:
       - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - "\u4F60\u9084\u8A18\u5F97\u9047\u5230\u4E86\u8AB0\uFF0C\u4EE5\u53CA\u5979\u5728\u505A\u4EC0\u9EBC\u55CE\uFF1F"
       isEmpty: 0
       isCommentOut: 0
@@ -2378,7 +2858,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - "\u5728\u516C\u5712\u9580\u53E3\u9047\u5230\u8AB0\uFF1F"
       isEmpty: 0
       isCommentOut: 0
@@ -2393,7 +2873,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - "\u770B\u5230\u4E00\u500B\u53D4\u53D4\u5728\u9935\u9D3F\u5B50\u3002"
       isEmpty: 0
       isCommentOut: 0
@@ -2432,7 +2912,7 @@ MonoBehaviour:
       debugIndex: 33
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -2447,7 +2927,7 @@ MonoBehaviour:
       debugIndex: 34
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -2462,7 +2942,7 @@ MonoBehaviour:
       debugIndex: 35
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -2477,7 +2957,7 @@ MonoBehaviour:
       debugIndex: 36
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -2492,7 +2972,7 @@ MonoBehaviour:
       debugIndex: 37
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -2507,7 +2987,7 @@ MonoBehaviour:
       debugIndex: 38
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -2522,7 +3002,7 @@ MonoBehaviour:
       debugIndex: 39
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -2598,7 +3078,7 @@ MonoBehaviour:
       debugIndex: 44
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -2613,7 +3093,7 @@ MonoBehaviour:
       debugIndex: 45
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -2628,7 +3108,7 @@ MonoBehaviour:
       debugIndex: 46
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -2643,7 +3123,7 @@ MonoBehaviour:
       debugIndex: 47
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -2658,7 +3138,7 @@ MonoBehaviour:
       debugIndex: 48
       strings:
       - 
-      - 
+      - "\u5C0F\u6BDB"
       - 
       - 
       - 
@@ -2673,7 +3153,7 @@ MonoBehaviour:
       debugIndex: 49
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -2688,7 +3168,7 @@ MonoBehaviour:
       debugIndex: 50
       strings:
       - 
-      - 
+      - "\u5C0F\u6BDB"
       - 
       - 
       - 
@@ -2763,7 +3243,7 @@ MonoBehaviour:
       debugIndex: 55
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -2778,7 +3258,7 @@ MonoBehaviour:
       debugIndex: 56
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -2793,7 +3273,7 @@ MonoBehaviour:
       debugIndex: 57
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -2808,7 +3288,7 @@ MonoBehaviour:
       debugIndex: 58
       strings:
       - 
-      - 
+      - "\u5C0F\u6BDB"
       - 
       - 
       - 
@@ -2823,7 +3303,7 @@ MonoBehaviour:
       debugIndex: 59
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -2838,7 +3318,7 @@ MonoBehaviour:
       debugIndex: 60
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -2853,7 +3333,7 @@ MonoBehaviour:
       debugIndex: 61
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -2868,7 +3348,7 @@ MonoBehaviour:
       debugIndex: 62
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -2943,7 +3423,7 @@ MonoBehaviour:
       debugIndex: 67
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -2958,7 +3438,7 @@ MonoBehaviour:
       debugIndex: 68
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -2973,7 +3453,7 @@ MonoBehaviour:
       debugIndex: 69
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -2988,7 +3468,7 @@ MonoBehaviour:
       debugIndex: 70
       strings:
       - 
-      - 
+      - "\u5C0F\u6BDB"
       - 
       - 
       - 
@@ -3003,7 +3483,7 @@ MonoBehaviour:
       debugIndex: 71
       strings:
       - 
-      - 
+      - "\u5C0F\u6BDB"
       - 
       - 
       - 
@@ -3019,7 +3499,7 @@ MonoBehaviour:
       debugIndex: 72
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -3094,7 +3574,7 @@ MonoBehaviour:
       debugIndex: 77
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -3109,7 +3589,7 @@ MonoBehaviour:
       debugIndex: 78
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -3124,7 +3604,7 @@ MonoBehaviour:
       debugIndex: 79
       strings:
       - 
-      - 
+      - "\u5C0F\u6BDB"
       - 
       - 
       - 
@@ -3140,7 +3620,7 @@ MonoBehaviour:
       debugIndex: 80
       strings:
       - 
-      - 
+      - "\u5C0F\u6BDB"
       - 
       - 
       - 
@@ -3155,7 +3635,7 @@ MonoBehaviour:
       debugIndex: 81
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -3170,7 +3650,7 @@ MonoBehaviour:
       debugIndex: 82
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -3185,7 +3665,7 @@ MonoBehaviour:
       debugIndex: 83
       strings:
       - 
-      - 
+      - "\u5C0F\u6BDB"
       - 
       - 
       - 
@@ -3200,7 +3680,7 @@ MonoBehaviour:
       debugIndex: 84
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -3215,7 +3695,7 @@ MonoBehaviour:
       debugIndex: 85
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -3230,7 +3710,7 @@ MonoBehaviour:
       debugIndex: 86
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -3245,7 +3725,7 @@ MonoBehaviour:
       debugIndex: 87
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -3260,7 +3740,7 @@ MonoBehaviour:
       debugIndex: 88
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -3275,7 +3755,7 @@ MonoBehaviour:
       debugIndex: 89
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -3290,7 +3770,7 @@ MonoBehaviour:
       debugIndex: 90
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -3305,7 +3785,7 @@ MonoBehaviour:
       debugIndex: 91
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -3320,7 +3800,7 @@ MonoBehaviour:
       debugIndex: 92
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -3335,7 +3815,7 @@ MonoBehaviour:
       debugIndex: 93
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -3350,7 +3830,7 @@ MonoBehaviour:
       debugIndex: 94
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -3365,7 +3845,7 @@ MonoBehaviour:
       debugIndex: 95
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -3380,7 +3860,7 @@ MonoBehaviour:
       debugIndex: 96
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -3395,7 +3875,7 @@ MonoBehaviour:
       debugIndex: 97
       strings:
       - 
-      - 
+      - "\u5ABD\u5ABD"
       - 
       - 
       - 
@@ -3410,7 +3890,7 @@ MonoBehaviour:
       debugIndex: 98
       strings:
       - 
-      - 
+      - "\u5C0F\u5A01"
       - 
       - 
       - 
@@ -3425,7 +3905,7 @@ MonoBehaviour:
       debugIndex: 99
       strings:
       - 
-      - 
+      - "\u5C0F\u5B87"
       - 
       - 
       - 
@@ -3460,6 +3940,6 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232141/Scenarios/61232141.xls:Start
     type: 1
-    textLength: 1931
+    textLength: 2163
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 7ef6961aa67a0fc4b817aa7edfd6cc1d, type: 3}
