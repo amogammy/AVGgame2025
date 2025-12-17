@@ -1052,9 +1052,9 @@ MonoBehaviour:
       - "\u80CC\u666F\u97F3\u6A021"
       - 
       - Bgm
-      - BG01.mp3
+      - Bgm1.mp3
       - 
-      - .8
+      - .6
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -1064,15 +1064,27 @@ MonoBehaviour:
       - "\u80CC\u666F\u97F3\u6A022"
       - 
       - Bgm
-      - BG02.mp3
+      - Bgm2.mp3
       - 
-      - .8
+      - .6
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u80CC\u666F\u97F3\u6A023"
+      - 
+      - Bgm
+      - Bgm3.mp3
+      - 
+      - .6
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     name: Assets/61232141/Scenarios/61232141.xls:Sound
     type: 1
-    textLength: 73
+    textLength: 91
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 7ef6961aa67a0fc4b817aa7edfd6cc1d, type: 3}
   - rows:
