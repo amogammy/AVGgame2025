@@ -705,7 +705,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - 1.2
       - 
       - ParkM.png
       isEmpty: 0
@@ -720,7 +720,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - 1.2
       - 
       - ParkN.png
       isEmpty: 0
@@ -735,7 +735,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - 1.2
       - 
       - RoomM.png
       isEmpty: 0
@@ -750,7 +750,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - 1.2
       - 
       - RoomN.png
       isEmpty: 0
@@ -765,7 +765,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - 1.2
       - 
       - SchoolIn.png
       isEmpty: 0
@@ -780,7 +780,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - 1.2
       - 
       - SchoolOut.png
       isEmpty: 0
@@ -795,7 +795,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - 1.2
       - 
       - Boyroom.png
       isEmpty: 0
@@ -803,7 +803,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232141/Scenarios/61232141.xls:Texture
     type: 1
-    textLength: 220
+    textLength: 241
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 7ef6961aa67a0fc4b817aa7edfd6cc1d, type: 3}
   - rows:
