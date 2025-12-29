@@ -51,7 +51,7 @@ MonoBehaviour:
       - 
       - "\u4E00\u822C"
       - 
-      - 
+      - -50
       - 
       - 
       - .8
@@ -67,7 +67,7 @@ MonoBehaviour:
       - 
       - "\u5FAE\u7B11"
       - 
-      - 
+      - -50
       - 
       - 
       - .8
@@ -83,7 +83,7 @@ MonoBehaviour:
       - 
       - "\u5927\u54ED"
       - 
-      - 
+      - -50
       - 
       - 
       - .8
@@ -99,7 +99,7 @@ MonoBehaviour:
       - 
       - "\u958B\u5FC3"
       - 
-      - 
+      - -50
       - 
       - 
       - .8
@@ -115,7 +115,7 @@ MonoBehaviour:
       - 
       - "\u52DE\u4F5C\u6642\u9593"
       - 
-      - 
+      - -50
       - 
       - 
       - .8
@@ -131,7 +131,7 @@ MonoBehaviour:
       - 
       - "\u6EFF\u8DB3"
       - 
-      - 
+      - -50
       - 
       - 
       - .8
@@ -147,7 +147,7 @@ MonoBehaviour:
       - 
       - "\u5E78\u798F"
       - 
-      - 
+      - -50
       - 
       - 
       - .8
@@ -163,7 +163,7 @@ MonoBehaviour:
       - 
       - "\u751F\u6C23"
       - 
-      - 
+      - -50
       - 
       - 
       - .8
@@ -179,7 +179,7 @@ MonoBehaviour:
       - 
       - "\u559C\u6085"
       - 
-      - 
+      - -50
       - 
       - 
       - .8
@@ -195,7 +195,7 @@ MonoBehaviour:
       - 
       - "\u6234\u5E3D\u5B50"
       - 
-      - 
+      - -50
       - 
       - 
       - .8
@@ -211,7 +211,7 @@ MonoBehaviour:
       - 
       - "\u9A5A\u614C"
       - 
-      - 
+      - -50
       - 
       - 
       - .8
@@ -259,7 +259,7 @@ MonoBehaviour:
       - 
       - "\u4E0A\u5B78"
       - 
-      - 
+      - -50
       - 
       - 
       - .8
@@ -275,7 +275,7 @@ MonoBehaviour:
       - 
       - "\u51FA\u53BB\u73A9"
       - 
-      - 
+      - -150
       - 
       - 
       - .8
@@ -307,7 +307,7 @@ MonoBehaviour:
       - 
       - "\u7591\u60D1"
       - 
-      - -150
+      - -200
       - 
       - 
       - 1.2
@@ -339,7 +339,7 @@ MonoBehaviour:
       - 
       - "\u958B\u5FC3"
       - 
-      - -150
+      - -300
       - 
       - 
       - 1.4
@@ -355,7 +355,7 @@ MonoBehaviour:
       - 
       - "\u8D85\u958B\u5FC3"
       - 
-      - -200
+      - -250
       - 
       - 
       - 1.2
@@ -369,7 +369,7 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - "\u7591\u60D1"
+      - "\u96E3\u904E"
       - 
       - -200
       - 
@@ -403,7 +403,7 @@ MonoBehaviour:
       - 
       - "\u7591\u60D1"
       - 
-      - 
+      - -50
       - 
       - 
       - .8
@@ -419,7 +419,7 @@ MonoBehaviour:
       - 
       - "\u7121\u7CBE\u6253\u91C7"
       - 
-      - 
+      - -50
       - 
       - 
       - .8
@@ -435,7 +435,7 @@ MonoBehaviour:
       - 
       - "\u64D4\u6182"
       - 
-      - 
+      - -50
       - 
       - 
       - .8
@@ -451,10 +451,10 @@ MonoBehaviour:
       - 
       - "\u559C\u6975\u800C\u6CE3"
       - 
+      - -50
       - 
       - 
-      - 
-      - .8
+      - 1.2
       - 
       - B4.png
       isEmpty: 0
@@ -467,10 +467,10 @@ MonoBehaviour:
       - 
       - "\u8209\u624B"
       - 
+      - -50
       - 
       - 
-      - 
-      - .8
+      - 1.2
       - 
       - B5.png
       isEmpty: 0
@@ -483,10 +483,10 @@ MonoBehaviour:
       - 
       - "\u958B\u5FC3"
       - 
+      - -50
       - 
       - 
-      - 
-      - .8
+      - 1.2
       - 
       - B6.png
       isEmpty: 0
@@ -499,10 +499,10 @@ MonoBehaviour:
       - 
       - "\u751F\u6C23"
       - 
+      - -50
       - 
       - 
-      - 
-      - .8
+      - 1.2
       - 
       - B7.png
       isEmpty: 0
@@ -515,7 +515,7 @@ MonoBehaviour:
       - 
       - "\u5931\u843D"
       - 
-      - 
+      - -50
       - 
       - 
       - .8
@@ -531,7 +531,7 @@ MonoBehaviour:
       - 
       - "\u4E00\u822C"
       - 
-      - -200
+      - -250
       - 
       - 
       - 1.4
@@ -547,7 +547,7 @@ MonoBehaviour:
       - 
       - "\u958B\u5FC3"
       - 
-      - -200
+      - -250
       - 
       - 
       - 1.4
@@ -563,7 +563,7 @@ MonoBehaviour:
       - 
       - "\u751F\u6C23"
       - 
-      - -200
+      - -250
       - 
       - 
       - 1.4
@@ -579,7 +579,7 @@ MonoBehaviour:
       - 
       - "\u559C\u6975\u800C\u6CE3"
       - 
-      - -200
+      - -250
       - 
       - 
       - 1.4
@@ -595,7 +595,7 @@ MonoBehaviour:
       - 
       - "\u8D85\u96E3\u904E"
       - 
-      - -200
+      - -250
       - 
       - 
       - 1.4
@@ -611,7 +611,7 @@ MonoBehaviour:
       - 
       - "\u6EAB\u67D4"
       - 
-      - -200
+      - -250
       - 
       - 
       - 1.4
@@ -627,7 +627,7 @@ MonoBehaviour:
       - 
       - "\u5E78\u798F"
       - 
-      - -200
+      - -300
       - 
       - 
       - 1.4
@@ -643,7 +643,7 @@ MonoBehaviour:
       - 
       - "\u5B89\u6170"
       - 
-      - -200
+      - -250
       - 
       - 
       - 1.4
@@ -670,7 +670,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232141/Scenarios/61232141.xls:Character
     type: 1
-    textLength: 670
+    textLength: 738
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 7ef6961aa67a0fc4b817aa7edfd6cc1d, type: 3}
   - rows:
@@ -855,7 +855,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 1.2
+      - 1.5
       - 
       - question.png
       isEmpty: 0
