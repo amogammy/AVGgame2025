@@ -307,7 +307,7 @@ MonoBehaviour:
       - 
       - "\u7591\u60D1"
       - 
-      - -200
+      - -150
       - 
       - 
       - 1.2
@@ -801,9 +801,69 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - "\u59B9\u59B9\u623F\u9593\u65E9"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1.2
+      - 
+      - GirlroomM.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - "\u59B9\u59B9\u623F\u9593\u665A"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1.2
+      - 
+      - GirlroomN.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - "\u684C\u5B50"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1.2
+      - 
+      - Table.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - "\u554F\u865F"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1.2
+      - 
+      - question.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61232141/Scenarios/61232141.xls:Texture
     type: 1
-    textLength: 241
+    textLength: 322
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 7ef6961aa67a0fc4b817aa7edfd6cc1d, type: 3}
   - rows:
@@ -1054,7 +1114,7 @@ MonoBehaviour:
       - Bgm
       - Bgm1.mp3
       - 
-      - .6
+      - .5
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -1066,7 +1126,7 @@ MonoBehaviour:
       - Bgm
       - Bgm2.mp3
       - 
-      - .6
+      - .5
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -1078,7 +1138,7 @@ MonoBehaviour:
       - Bgm
       - Bgm3.mp3
       - 
-      - .6
+      - .5
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
