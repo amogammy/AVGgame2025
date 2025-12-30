@@ -515,10 +515,10 @@ MonoBehaviour:
       - 
       - "\u5931\u843D"
       - 
-      - -50
+      - -80
       - 
       - 
-      - .8
+      - 1.2
       - 
       - B8.png
       isEmpty: 0
@@ -670,7 +670,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232141/Scenarios/61232141.xls:Character
     type: 1
-    textLength: 737
+    textLength: 738
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 7ef6961aa67a0fc4b817aa7edfd6cc1d, type: 3}
   - rows:
