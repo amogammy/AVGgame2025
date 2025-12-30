@@ -275,7 +275,7 @@ MonoBehaviour:
       - 
       - "\u51FA\u53BB\u73A9"
       - 
-      - -150
+      - -30
       - 
       - 
       - .8
@@ -670,7 +670,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232141/Scenarios/61232141.xls:Character
     type: 1
-    textLength: 738
+    textLength: 737
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 7ef6961aa67a0fc4b817aa7edfd6cc1d, type: 3}
   - rows:
