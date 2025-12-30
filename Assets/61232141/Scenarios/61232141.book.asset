@@ -2543,7 +2543,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u5C0F\u6BDB"
-      - "\u5931\u843D"
+      - "\u559C\u6975\u800C\u6CE3"
       - "\u5DE6\u908A"
       - 
       - 
@@ -3302,7 +3302,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232141/Scenarios/61232141.xls:Start
     type: 1
-    textLength: 5987
+    textLength: 5989
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 7ef6961aa67a0fc4b817aa7edfd6cc1d, type: 3}
     entityIndexTbl: 
@@ -3695,10 +3695,10 @@ MonoBehaviour:
       - 
       - "\u7591\u60D1"
       - 
-      - -50
+      - -80
       - 
       - 
-      - .8
+      - 1.2
       - 
       - B1.png
       isEmpty: 0
@@ -3727,10 +3727,10 @@ MonoBehaviour:
       - 
       - "\u64D4\u6182"
       - 
-      - -50
+      - -100
       - 
       - 
-      - .8
+      - 1.2
       - 
       - B3.png
       isEmpty: 0
@@ -3807,10 +3807,10 @@ MonoBehaviour:
       - 
       - "\u5931\u843D"
       - 
-      - -80
+      - -100
       - 
       - 
-      - 1.2
+      - .8
       - 
       - B8.png
       isEmpty: 0
@@ -3962,7 +3962,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232141/Scenarios/61232141.xls:Character
     type: 1
-    textLength: 738
+    textLength: 741
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 7ef6961aa67a0fc4b817aa7edfd6cc1d, type: 3}
   - rows:
@@ -7073,7 +7073,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u5C0F\u6BDB"
-      - "\u5931\u843D"
+      - "\u559C\u6975\u800C\u6CE3"
       - "\u5DE6\u908A"
       - 
       - 
@@ -7832,6 +7832,6 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232141/Scenarios/61232141.xls:Start
     type: 1
-    textLength: 5987
+    textLength: 5989
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 7ef6961aa67a0fc4b817aa7edfd6cc1d, type: 3}
